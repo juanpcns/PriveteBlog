@@ -1,1 +1,1 @@
-# PriveteBlog
+# PrivateBlog
